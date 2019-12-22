@@ -1,4 +1,4 @@
-package com.stackify.restservices.springboot.buildingblocks;
+package com.stackify.restservices;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
